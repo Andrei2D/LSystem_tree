@@ -1,9 +1,9 @@
  
 # Controls exbition
-![](ControlsDemo.gif)
+![](Demo/ControlsDemo.gif)
 
 # Random angle generation
-![](RandomAngle.gif )   
+![](Demo/RandomAngle.gif )   
 
 # Axiom print
-![](AxiomProof.gif)
+![](Demo/AxiomProof.gif)

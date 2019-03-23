@@ -22,8 +22,8 @@ srand(time(NULL));
     LSystem Tree;
     Tree.drawFormula();
     Tree.addAngleShift(45);
-    Tree.addAngleShift(15);
-    Tree.addAngleShift(20);
+    //Tree.addAngleShift(30);
+    //Tree.addAngleShift(15);
     cara = getch();
 
     while(cara != '0')
@@ -55,7 +55,7 @@ srand(time(NULL));
         break;
 
      case ('5'):
-        cout<<Tree.getAxiom()<<"\n";
+        cout<<"The axiom is :\n"<<Tree.getAxiom()<<"\n\n";
         break;
 
      default:
